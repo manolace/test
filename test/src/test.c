@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World+1233344!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hello World+123323344!!!"); /* prints !!!Hello World!!! */
 	return 0;
 }
